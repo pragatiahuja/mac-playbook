@@ -1,4 +1,4 @@
-## Ansible Playbook for Mac       [![Build Status](https://travis-ci.org/v1shwa/mac-playbook.svg?branch=master)](https://travis-ci.org/v1shwa/mac-playbook)
+## Ansible Playbook for Windows       [![Build Status](https://travis-ci.org/v1shwa/mac-playbook.svg?branch=master)](https://travis-ci.org/v1shwa/mac-playbook)
 
 Ansible playbook to download, install & configure almost all the software I use on my mac. The dotfiles for vim,tmux,zsh & other tools are available [here](https://github.com/v1shwa/mydotfiles).
 
